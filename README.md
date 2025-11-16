@@ -13,8 +13,8 @@ When I’m not coding or exploring tech, you can usually find me
 - Some of my all-time favorite shows are Samurai Champloo and The Boondocks
 
 ## 🎓 Learning Now
-`IT Problem Solving` `Linux/Unix Fundamentals` `Introduction to Java` 
-`Introduction to Scripting Social Issues and Ethics in Computing`
+`IT Problem Solving` `Linux/Unix Fundamentals` `Introduction to Java` `Introduction to Scripting` 
+`Social Issues and Ethics in Computing`
 
 ## 🌐 Connect with me:
 https://www.linkedin.com/in/bertnah-nerjuste/
