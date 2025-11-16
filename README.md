@@ -18,4 +18,5 @@ When I’m not coding or exploring tech, you can usually find me
 
 ## 🌐 Connect with me:
 https://www.linkedin.com/in/bertnah-nerjuste/
+
 Thanks for stopping by! Feel free to explore my projects and connect.🚀
