@@ -5,7 +5,7 @@ I’m a third year junior at the **University of Massachusetts, Boston** studyin
 When I’m not coding or exploring tech, you can usually find me 
 - 🎮 Gaming
 - 📺 Watching true crime shows
-- 🎨 Exploring creative outlet
+- 🎨 Exploring creative outlets
 
 ## 💡 Fun Facts About Me:
 - I absolutely despise bananas 🍌❌
